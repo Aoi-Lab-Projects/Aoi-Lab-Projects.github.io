@@ -1,18 +1,12 @@
 ---
 layout: home
-title: Aoi Lab
-subtitle:  We want to understand how populations of neurons coordinate their behavior in order to carry out computations.
-css: "/assets/css/index.css"
+title: Contact 
+subtitle:  Insterested in collaboration? Join us
 share-img: /assets/img/logo.jpg
 use-site-title: true
 cover-img:
   - "/assets/img/FAH.jpg" : "FRANKLIN ANTONIO HALL"
 ---
-<h3>Research</h3>
-We want to understand how populations of neurons coordinate their behavior in order to carry out computations. A big part of this work is aimed at identifying new methods of data analysis that allow us to have more sensitive and informative tools to do science.
-
-<h3>Hightlight Projects</h3>
-<h3>Contact</h3>
 
 <div id="contactme-section">
 <h3 id="contact">Contact</h3>
