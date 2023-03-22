@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Contact 
 subtitle:  Insterested in collaboration? Join us
 share-img: /assets/img/logo.jpg
