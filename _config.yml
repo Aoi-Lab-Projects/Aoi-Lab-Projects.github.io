@@ -20,8 +20,6 @@ author: Aoi Lab
 ###############################################
 
 navbar-links:
-
-  About Us: "aboutme"
   People: 'people'
   Research: 'research'
   Publications: 'projects'
